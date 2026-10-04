@@ -1,4 +1,4 @@
-# Python-generated files
+
 game_state.jsonl
 __pycache__/
 *.py[oc]
@@ -9,3 +9,26 @@ wheels/
 game_events.jsonl
 # Virtual environments
 .venv
+# Project-specific files
+game_state.jsonl
+game_events.jsonl
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
